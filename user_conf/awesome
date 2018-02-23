@@ -1,0 +1,5 @@
+# https://serverfault.com/questions/222906/vsftpd-local-root-var-www-sites-user-doesnt-get-interpreted
+local_root=/home/vsftpd/awesome
+dirlist_enable=YES
+download_enable=YES
+write_enable=YES
